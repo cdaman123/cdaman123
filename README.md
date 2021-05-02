@@ -35,7 +35,7 @@
 <a href="https://www.hackerrank.com/aman16sep2k" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-hackerrank_%28CoreUI_Icons_v1.0.0%29.svg" alt="aman16sep2k" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cdaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="cdaman" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@cdaman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@cdaman" height="30" width="40" /></a>
-<a href="https://discord.gg/7276" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="7276" height="30" width="40" /></a>
+<a href="https://discord.gg/#7276" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="7276" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
