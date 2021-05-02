@@ -27,15 +27,15 @@
 <p align="left">
 <a href="https://dev.to/cdaman123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cdaman123" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cdaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/cdaman123/cdaman123/main/174857.svg" alt="cdaman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14894361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14894361" height="30" width="40" /></a>
-<a href="https://kaggle.com/cdaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="cdaman" height="30" width="40" /></a>
-<a href="https://fb.com/aman.gupta2015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="aman.gupta2015" height="30" width="40" /></a>
-<a href="https://instagram.com/gupta_a_m_a_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="gupta_a_m_a_n" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14894361" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="14894361" height="30" width="40" /></a>
+<a href="https://kaggle.com/cdaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/cdaman123/cdaman123/main/kaggle-icon.svg" alt="cdaman" height="30" width="40" /></a>
+<a href="https://fb.com/aman.gupta2015" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="aman.gupta2015" height="30" width="40" /></a>
+<a href="https://instagram.com/gupta_a_m_a_n" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Feather-logos-instagram.svg" alt="gupta_a_m_a_n" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cdaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cdaman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aman16sep2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="aman16sep2k" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aman16sep2k" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-hackerrank_%28CoreUI_Icons_v1.0.0%29.svg" alt="aman16sep2k" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cdaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="cdaman" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@cdaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@cdaman" height="30" width="40" /></a>
-<a href="https://discord.gg/7276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="7276" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@cdaman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@cdaman" height="30" width="40" /></a>
+<a href="https://discord.gg/7276" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="7276" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
