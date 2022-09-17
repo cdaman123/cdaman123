@@ -1,0 +1,355 @@
+{
+    "basics": {
+        "name": "Aman Gupta",
+        "email": "aman16sep2k@gmail.com",
+        "phone": "9166118650",
+        "photo": {
+            "url": "",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "Software Developer, with endless drive to upgrade my skills. Has worked on projects based on Angular, Nestjs, Go, Machine Learning/Deep Learning/Data Science and AWS etc. have extensive knowledge of JavaScript and Python. Loves working with new technologies. Passionately interested in deep learning and neural networks.",
+        "website": "",
+        "headline": "Software Developer",
+        "location": {
+            "city": "",
+            "region": "",
+            "address": "Gurugram, India",
+            "country": "",
+            "postalCode": ""
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "cdaman123",
+                "url": "",
+                "id": "2de8dce0-c1bb-4243-aa74-3a26388dbe1e"
+            },
+            {
+                "network": "Linkedin",
+                "username": "cdaman",
+                "url": "",
+                "id": "eeba44fe-fd23-4882-8706-69efc5e282b7"
+            }
+        ],
+        "birthdate": ""
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "basic",
+            "items": [
+                {
+                    "name": "Incubate IND",
+                    "position": "Core Team Member- Fellows Jaipur Chapter",
+                    "date": {
+                        "start": "2019-12-01T18:10:56.000Z",
+                        "end": "2020-12-31T18:30:00.000Z"
+                    },
+                    "url": "",
+                    "summary": "Organise community events for the Fellows Jaipur Chapter.",
+                    "id": "ca243e00-da86-4ff5-83c4-b78dd3f5535e"
+                },
+                {
+                    "name": "Internity Foundation",
+                    "position": "Data Science Intern",
+                    "date": {
+                        "start": "2020-01-11T18:30:00.000Z",
+                        "end": "2020-12-31T18:30:00.000Z"
+                    },
+                    "url": "",
+                    "summary": "During internship, I worked on various tools in Data Science and worked on server side log analysis project in which parse the server logs to get information about various attacks on servers. I got the best intern title for this internship.",
+                    "id": "c4de41e0-e758-4033-b727-c34b3571af4b"
+                },
+                {
+                    "name": "Docquity",
+                    "position": "Software Developer",
+                    "date": {
+                        "start": "2022-01-01T18:13:38.000Z",
+                        "end": ""
+                    },
+                    "url": "",
+                    "summary": "At Docquity, I have worked on several applications that use real-time communication protocols, microservice architecture and clean coding. I worked on tools such as Angular, Nestjs, Python and Golang. I also worked on the infrastructure side such as AWS cloud, Docker, Kubernetes, including tasks using Keda. I researched the best available technologies for use in several scenarios.",
+                    "id": "d3654109-9d9f-43c2-91b9-80026958eecb"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "name": "Angular",
+                    "level": "",
+                    "levelNum": 0,
+                    "keywords": [],
+                    "id": "a4182e4c-5754-408e-9224-247a6229ced6"
+                },
+                {
+                    "name": "Nestjs",
+                    "level": "",
+                    "levelNum": 0,
+                    "keywords": [],
+                    "id": "6f6542f2-1d1b-4702-aeba-4b41d28d2665"
+                },
+                {
+                    "name": "Web Development",
+                    "level": "",
+                    "levelNum": 0,
+                    "keywords": [],
+                    "id": "8e0a3aad-38d1-4cdb-8acf-c9ba7b9f0a23"
+                },
+                {
+                    "name": "Java Script",
+                    "level": "",
+                    "levelNum": 0,
+                    "keywords": [],
+                    "id": "81bc6f3c-a115-4bb6-b6a7-02594ff21008"
+                },
+                {
+                    "name": "TypeScript",
+                    "level": "",
+                    "levelNum": 0,
+                    "keywords": [],
+                    "id": "e74789ce-48ff-4920-b3fb-c153fc1740b9"
+                },
+                {
+                    "name": "Golang",
+                    "level": "",
+                    "levelNum": 0,
+                    "keywords": [],
+                    "id": "b53f7af3-44cc-45d0-994e-92778175f2fc"
+                },
+                {
+                    "name": "Python",
+                    "level": "",
+                    "levelNum": 0,
+                    "keywords": [],
+                    "id": "9aa9f805-0227-41f6-91ab-e9490ad90865"
+                },
+                {
+                    "name": "AWS",
+                    "level": "",
+                    "levelNum": 0,
+                    "keywords": [],
+                    "id": "346e81c9-7244-4cc9-9d98-c84d6f033af0"
+                },
+                {
+                    "name": "Docker",
+                    "level": "",
+                    "levelNum": 0,
+                    "keywords": [],
+                    "id": "7088b896-621a-4406-973e-eb7e4dcd0a61"
+                },
+                {
+                    "name": "Kubernetes",
+                    "level": "",
+                    "levelNum": 0,
+                    "keywords": [],
+                    "id": "3a84da05-6e73-48a4-a29c-a2f8bcf95cea"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "institution": "Udacity",
+                    "degree": "AI",
+                    "area": "Artificial Intelligence",
+                    "score": "",
+                    "date": {
+                        "start": "2019-01-01T18:14:44.000Z",
+                        "end": "2020-01-01T18:15:00.000Z"
+                    },
+                    "url": "",
+                    "summary": "",
+                    "courses": [],
+                    "id": "09eeb5ad-215e-44b5-8000-afd3d4a977ce"
+                },
+                {
+                    "institution": "WorldQuant University",
+                    "degree": "Data Science",
+                    "area": "",
+                    "score": "",
+                    "date": {
+                        "start": "2019-01-01T18:15:47.000Z",
+                        "end": "2020-01-01T18:15:53.000Z"
+                    },
+                    "url": "",
+                    "summary": "",
+                    "courses": [],
+                    "id": "ad269a87-9345-4775-8a85-becadcdde92f"
+                },
+                {
+                    "institution": "Birla Institute of Technology, Mesra",
+                    "degree": "Bachelor of Technology - BTech",
+                    "area": "Computer Science",
+                    "score": "8.2",
+                    "date": {
+                        "start": "2018-07-01T18:16:22.000Z",
+                        "end": "2022-06-30T18:16:30.000Z"
+                    },
+                    "url": "",
+                    "summary": "",
+                    "courses": [],
+                    "id": "39007d0c-7464-4558-9c85-a922a9624b04"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [
+                {
+                    "name": "Deep Learning",
+                    "keywords": [],
+                    "id": "48388c36-e9bb-49d5-bb31-3da779f76ea8"
+                },
+                {
+                    "name": "Music",
+                    "keywords": [],
+                    "id": "d7cc3f88-d269-4ee0-b265-896e46d6f4ad"
+                },
+                {
+                    "name": "Reading",
+                    "keywords": [],
+                    "id": "e96e37ab-a2ce-4535-a6f0-2c04e7eef482"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "name": "Hindi",
+                    "level": "Expert",
+                    "levelNum": 10,
+                    "id": "78701680-2f26-4ff7-a0d9-4fee4e2fe831"
+                },
+                {
+                    "name": "English",
+                    "level": "Proficient",
+                    "levelNum": 8,
+                    "id": "bab139ee-80e7-402c-8c88-83aee33dd9fb"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "MMM YYYY"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#973bb8",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "volunteer",
+                    "references"
+                ],
+                [
+                    "skills",
+                    "interests",
+                    "languages",
+                    "awards",
+                    "certifications",
+                    "publications"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "castform",
+        "typography": {
+            "size": {
+                "body": 18,
+                "heading": 35
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Noto Serif Georgian"
+            }
+        }
+    },
+    "public": true
+}
